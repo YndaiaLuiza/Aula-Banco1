@@ -118,7 +118,9 @@ create database trabalho;
 
 -- usar banco de dados
 use trabalho;
+```
 
+```sql
 -- criando tabela exercicios complementares
 create table funcionarios (
 codigo int primary key,
